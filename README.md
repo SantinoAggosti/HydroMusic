@@ -2,9 +2,13 @@
 Arduino circuit which enables the creation of music using water!
 
 :Author: santinooagg
+
 :Email: {santinoaggosti@gmail.com}
+
 :Date: 13/01/2022
+
 :Revision: version 1.0
+
 :License: Public Domain
 
 
