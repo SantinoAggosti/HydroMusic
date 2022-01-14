@@ -35,12 +35,11 @@ Upload the code contained in the sketch on to your board.
 # BOM
 The materials you need for this project.
 
-| ID | Part name      | Quantity
-| A1 | Arduino Uno    | 1
-| S1 | Water Sensor   | 1
-| b1 | Button         | 1
-| B1 | Buzzer         | 1
-| W  | Wires          | 11
+Arduino Uno    | 1
+Water Sensor   | 1
+Button         | 1
+Buzzer         | 1
+Wires          | 11
 
 
 # Considerations
