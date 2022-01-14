@@ -36,7 +36,6 @@ Upload the code contained in the sketch on to your board.
 The materials you need for this project.
 
 | ID | Part name      | Quantity
-| L1 | Red LED        | 5
 | A1 | Arduino Uno    | 1
 | S1 | Water Sensor   | 1
 | b1 | Button         | 1
